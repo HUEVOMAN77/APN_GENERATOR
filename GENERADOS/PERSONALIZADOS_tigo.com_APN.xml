@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns version="8">
+    <apn
+        carrier="tigo.com"
+        mcc="701"
+        mnc="702"
+        apn="tigo.com"
+        type="supl"
+    />
+</apns>

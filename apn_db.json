@@ -1,0 +1,58 @@
+{
+  "El Salvador": {
+    "Tigo": {
+      "apn": "web.tigo.sv",
+      "mcc": "706",
+      "mnc": "01",
+      "type": "default"
+    },
+    "Claro": {
+      "apn": "internet.ideasclaro.com.sv",
+      "mcc": "706",
+      "mnc": "02",
+      "type": "default"
+    },
+    "Movistar": {
+      "apn": "internet.movistar.sv",
+      "mcc": "706",
+      "mnc": "03",
+      "type": "default"
+    },
+    "Digicel": {
+      "apn": "web.digicel.com",
+      "mcc": "706",
+      "mnc": "04",
+      "type": "default"
+    }
+  },
+  "Guatemala": {
+    "Tigo": {
+      "apn": "internet.tigo.gt",
+      "mcc": "704",
+      "mnc": "01",
+      "type": "default"
+    },
+    "Claro": {
+      "apn": "claro.pe",
+      "mcc": "704",
+      "mnc": "02",
+      "type": "default"
+    }
+  },
+  "Honduras": {
+    "Tigo": {
+      "apn": "web.tigo.hn",
+      "mcc": "708",
+      "mnc": "01",
+      "type": "default"
+    }
+  },
+  "PERSONALIZADOS": {
+    "tigo.com": {
+      "apn": "tigo.com",
+      "mcc": "701",
+      "mnc": "702",
+      "type": "supl"
+    }
+  }
+}

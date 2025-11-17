@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns version="8">
+    <apn
+        carrier=""
+        mcc="null"
+        mnc="null"
+        apn="null"
+        type="null"
+    />
+</apns>
